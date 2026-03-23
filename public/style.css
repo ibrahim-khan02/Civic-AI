@@ -1,0 +1,35 @@
+/* Page background */
+body {
+  background: linear-gradient(to right, #eef2f3, #ffffff);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Card hover effect */
+.card {
+  border-radius: 12px;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Chatbox styling */
+#chatbox {
+  background-color: #f8f9fa;
+  font-size: 14px;
+}
+
+/* User message */
+#chatbox p b {
+  color: #0d6efd;
+}
+
+/* Button smooth effect */
+button {
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  opacity: 0.9;
+}
