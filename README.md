@@ -1,6 +1,6 @@
 # Civic-AI
 Ideathon
-# 🚀 CivicAI
+# CivicAI
 
 ### Smart Complaint Management System
 
@@ -8,20 +8,20 @@ CivicAI is a web-based platform that allows citizens to submit complaints relate
 
 ---
 
-## 📌 Features
+##  Features
 
-* 📝 Submit complaints easily
-* 📊 Dashboard with real-time stats
+*  Submit complaints easily
+*  Dashboard with real-time stats
 
   * Total complaints
   * High priority
   * Pending
   * Resolved
-* 🏷️ Automatic categorization & priority tagging
-* ✅ Mark complaints as resolved
-* 🤖 Chat assistant for basic queries
-* 💾 Backend API integration
-* 🎨 Clean UI using Bootstrap
+*  Automatic categorization & priority tagging
+*  Mark complaints as resolved
+*  Chat assistant for basic queries
+*  Backend API integration
+*  Clean UI using Bootstrap
 
 ---
 
@@ -34,7 +34,7 @@ CivicAI is a web-based platform that allows citizens to submit complaints relate
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 CivicAI/
@@ -47,7 +47,7 @@ CivicAI/
 └── README.md
 
 
-## 🤖 Chatbot Capabilities
+##  Chatbot Capabilities
 
 * Answers queries like:
 
@@ -58,17 +58,17 @@ CivicAI/
 
 
 
-## 🚀 Future Improvements
+##  Future Improvements
 
-* 🔐 User authentication (login/signup)
-* 📍 Location-based complaint tracking
-* 🧠 AI-based complaint classification
-* 📱 Mobile responsiveness improvements
-* 🌐 Deploy to cloud (Render / Vercel)
+*  User authentication (login/signup)
+*  Location-based complaint tracking
+* AI-based complaint classification
+*  Mobile responsiveness improvements
+*  Deploy to cloud (Render / Vercel)
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ibrahim Khan**
 
